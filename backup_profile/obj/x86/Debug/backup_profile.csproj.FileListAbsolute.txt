@@ -1,0 +1,10 @@
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Debug\backup_profile.Properties.Resources.resources
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\bin\Debug\backup_profile.exe
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\bin\Debug\backup_profile.pdb
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Debug\backup_profile.exe
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Debug\backup_profile.pdb
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Debug\backup_profile.backup_profile.resources
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\bin\Debug\Ionic.Zip.dll

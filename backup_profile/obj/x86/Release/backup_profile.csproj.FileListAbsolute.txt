@@ -1,0 +1,9 @@
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Release\backup_profile.Properties.Resources.resources
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\bin\Release\backup_profile.exe
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\bin\Release\backup_profile.pdb
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Release\backup_profile.backup_profile.resources
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Release\backup_profile.exe
+C:\Users\Ashton\Development\c#\backup_profile\backup_profile\obj\x86\Release\backup_profile.pdb
